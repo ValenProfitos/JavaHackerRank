@@ -12,7 +12,7 @@ In this repository you can find my solutions to Hackerrank Java
 - Java
     01. Introduction
         - Welcome to Java! | [Problem](https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true) | [Solution](https://github.com/ValenProfitos/JavaHackerRank/tree/main/01.%20Introduction/001.%20Welcome%20to%20Java) | Score: 3
-        - Java Stdin and Stdout i | [Problem](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=false) | [Solution]() | Score:  
+        - Java Stdin and Stdout i | [Problem](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=false) | [Solution](https://github.com/ValenProfitos/JavaHackerRank/tree/main/01.%20Introduction/002.Java%20Stdin%20and%20Stdout%20i) | Score: 5
     <!-- 02. Strings
     03. BigNumbers
     04. Data Structures
