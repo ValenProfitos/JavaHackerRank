@@ -12,11 +12,11 @@ In this repository you can find my solutions to Hackerrank Java
 - Java
     01. Introduction
         - Welcome to Java! | [Problem](https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true) | [Solution](https://github.com/ValenProfitos/JavaHackerRank/tree/main/01.%20Introduction/001.%20Welcome%20to%20Java) | Score: 3
-    02. Strings
+    <!-- 02. Strings
     03. BigNumbers
     04. Data Structures
     05. Object Oriented Programming
     06. Exceptions Handling
-    07. Advanced
+    07. Advanced -->
 
 <!-- | [Problem]() | [Solution]() | Score: -->
