@@ -16,6 +16,7 @@ In this repository you can find my solutions to Hackerrank Java
         - Java if-else | [Problem](https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=false) | [Solution](https://github.com/ValenProfitos/JavaHackerRank/tree/main/01.%20Introduction/003.%20Java%20if-else) | Score: 10
         - Java Stdin and Stdout II | [Problem](https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=false) | [Solution](https://github.com/ValenProfitos/JavaHackerRank/tree/main/01.%20Introduction/004.%20Java%20Stdin%20and%20Stdout%20II) | Score: 10
         - Java Output Formatting | [Problem](https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=false) | [Solution](https://github.com/ValenProfitos/JavaHackerRank/tree/main/01.%20Introduction/005.%20Java%20Output%20Formatting) | Score: 10
+        - Java Loops I | [Problem](https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=false) | [Solution](https://github.com/ValenProfitos/JavaHackerRank/tree/main/01.%20Introduction/006.%20Java%20Loops%20I) | Score: 10
     <!-- 02. Strings
     03. BigNumbers
     04. Data Structures
