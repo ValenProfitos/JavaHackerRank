@@ -22,6 +22,7 @@ In this repository you can find my solutions to Hackerrank Java
         - Java End-of-file | [Problem](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=false) | [Solution](https://github.com/ValenProfitos/JavaHackerRank/tree/main/01.%20Introduction/009.%20Java%20End-of-file) | Score: 10
         - Java Static Initializer Block | [Problem](https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=false) | [Solution](https://github.com/ValenProfitos/JavaHackerRank/tree/main/01.%20Introduction/010.%20Java%20Static%20Initializer%20Block) | Score: 10
         - Java Int to String | [Problem](https://www.hackerrank.com/challenges/java-int-to-string/problem?isFullScreen=false) | [Solution](https://github.com/ValenProfitos/JavaHackerRank/tree/main/01.%20Introduction/011.%20Java%20Int%20to%20String) | Score: 10
+        - Java Date and Time | [Problem](https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=false) | [Solution](https://github.com/ValenProfitos/JavaHackerRank/tree/main/01.%20Introduction/012.%20Java%20Date%20and%20Time) | Score: 15
     <!-- 02. Strings
     03. BigNumbers
     04. Data Structures
