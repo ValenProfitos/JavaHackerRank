@@ -21,6 +21,7 @@ In this repository you can find my solutions to Hackerrank Java
         - Java Datatype | [Problem](https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=false) | [Solution](https://github.com/ValenProfitos/JavaHackerRank/tree/main/01.%20Introduction/008.%20Java%20Datatypes) | Score: 10
         - Java End-of-file | [Problem](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=false) | [Solution](https://github.com/ValenProfitos/JavaHackerRank/tree/main/01.%20Introduction/009.%20Java%20End-of-file) | Score: 10
         - Java Static Initializer Block | [Problem](https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=false) | [Solution](https://github.com/ValenProfitos/JavaHackerRank/tree/main/01.%20Introduction/010.%20Java%20Static%20Initializer%20Block) | Score: 10
+        - Java Int to String | [Problem](https://www.hackerrank.com/challenges/java-int-to-string/problem?isFullScreen=false) | [Solution](https://github.com/ValenProfitos/JavaHackerRank/tree/main/01.%20Introduction/011.%20Java%20Int%20to%20String) | Score: 10
     <!-- 02. Strings
     03. BigNumbers
     04. Data Structures
