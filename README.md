@@ -19,6 +19,7 @@ In this repository you can find my solutions to Hackerrank Java
         - Java Loops I | [Problem](https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=false) | [Solution](https://github.com/ValenProfitos/JavaHackerRank/tree/main/01.%20Introduction/006.%20Java%20Loops%20I) | Score: 10
         - Java Loops II | [Problem](https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=false) | [Solution](https://github.com/ValenProfitos/JavaHackerRank/tree/main/01.%20Introduction/007.%20Java%20Loops%20II) | Score: 10
         - Java Datatype | [Problem](https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=false) | [Solution](https://github.com/ValenProfitos/JavaHackerRank/tree/main/01.%20Introduction/008.%20Java%20Datatypes) | Score: 10
+        - Java End-of-file | [Problem](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=false) | [Solution](https://github.com/ValenProfitos/JavaHackerRank/tree/main/01.%20Introduction/009.%20Java%20End-of-file) | Score: 10
     <!-- 02. Strings
     03. BigNumbers
     04. Data Structures
